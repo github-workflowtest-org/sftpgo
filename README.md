@@ -14,7 +14,7 @@ With SFTPGo you can leverage local and cloud storage backends for exchanging and
 The WebAdmin UI allows to easily create and manage your users, folders, groups and other resources.
 
 The WebClient UI allows end users to change their credentials, browse and manage their files in the browser and setup two-factor authentication which works with Microsoft Authenticator, Google Authenticator, Authy and other compatible apps.
-
+  
 ## Sponsors
 
 We strongly believe in Open Source software model, so we decided to make SFTPGo available to everyone, but maintaining and evolving SFTPGo takes a lot of time and work. To make development and maintenance sustainable you should consider to support the project with a [sponsorship](https://github.com/sponsors/drakkan).
