@@ -5,7 +5,6 @@
 [![License: AGPL-3.0-only](https://img.shields.io/badge/License-AGPLv3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 [![Mentioned in Awesome Go](https://awesome.re/mentioned-badge.svg)](https://github.com/avelino/awesome-go)
 
-Full-featured and highly configurable event-driven file transfer solution.     
 Server protocols: SFTP, HTTP/S, FTP/S, WebDAV.
 Storage backends: local filesystem, encrypted local filesystem, S3 (compatible) Object Storage, Google Cloud Storage, Azure Blob Storage, other SFTP servers. 
 
@@ -75,7 +74,7 @@ Thank you to [KeenThemes](https://keenthemes.com/) for granting us a custom lice
 
 Thank you to [Crowdin](https://crowdin.com/) for granting us an Open Source License.
 
-Thank you to [Incode](https://www.incode.it/) for helping us to improve the UI/UX.
+Thank you to [Incode](https://www.incode.it/) for helping us to improve the UI/UX.     
 
 ## License
 
